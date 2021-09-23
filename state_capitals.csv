@@ -1,0 +1,51 @@
+state_long, state_short, capital, zip_code
+Alabama,AL,Montgomery,36043
+Alaska,AK,Juneau,99801
+Arizona,AZ,Phoenix,85003
+Arkansas,AR,Little Rock,72201
+California,CA,Sacramento,94303
+Colorado,CO,Denver,80014
+Connecticut,CT,Hartford,06103
+Delaware,DE,Dover,19901
+Florida,FL,Tallahassee,32301
+Georgia,GA,Atlanta,30303
+Hawaii,HI,Honolulu,96795
+Idaho,ID,Boise,83702
+Illinois,IL,Springfield,62701
+Indiana,IN,Indianapolis,46201
+Iowa,IA,Des Moines,50211
+Kansas,KS,Topeka,66603
+Kentucky,KY,Frankfort,40601
+Louisiana,LA,Baton Rouge,70801
+Maine,ME,Augusta,04330
+Maryland,MD,Annapolis,21401
+Massachusetts,MA,Boston,02108
+Michigan,MI,Lansing,48906
+Minnesota,MN,St. Paul,55101
+Mississippi,MS,Jackson,39201
+Missouri,MO,Jefferson City,65101
+Montana,MT,Helena,59601
+Nebraska,NE,Lincoln,68502
+Nevada,NV,Carson City,89701
+New Hampshire,NH,Concord,03301
+New Jersey,NJ,Trenton,08608
+New Mexico,NM,Santa Fe,87501
+New York,NY,Albany,12084
+North Carolina,NC,Raleigh,27601
+North Dakota,ND,Bismarck,58501
+Ohio,OH,Columbus,43201
+Oklahoma,OK,Oklahoma City,73008
+Oregon,OR,Salem,97301
+Pennsylvania,PA,Harrisburg,17101
+Rhode Island,RI,Providence,02860
+South Carolina,SC,Columbia,29201
+South Dakota,SD,Pierre,57501
+Tennessee,TN,Nashville,37201
+Texas,TX,Austin,78613
+Utah,UT,Salt Lake City,84101
+Vermont,VT,Montpelier,05602
+Virginia,VA,Richmond,23219
+Washington,WA,Olympia,98501
+West Virginia,WV,Charleston,25301
+Wisconsin,WI,Madison,53558
+Wyoming,WY,Cheyenne,82001
